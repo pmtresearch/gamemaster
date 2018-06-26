@@ -1,0 +1,42 @@
+{
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-nodeunit": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-dom-munger": "^3.4.0",
+    "grunt-zip": "^0.13.0"
+  },
+  "name": "home",
+  "version": "1.0.0",
+  "description": "gamemaster webpage",
+  "main": "index.html",
+  "dependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmtresearch/gamemasterweb.git"
+  },
+  "keywords": [
+    "games",
+    "theory",
+    "fun",
+    "break",
+    "webflow",
+    "nodegames"
+  ],
+  "author": "PMT Research Institute",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pmtresearch/gamemasterweb/issues"
+  },
+  "homepage": "https://github.com/pmtresearch/gamemasterweb#readme"
+}
